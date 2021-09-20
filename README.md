@@ -1,5 +1,5 @@
 # project-euler
-My Project Euler solutions - most will be in Lua. Some may be in a different language if it is easier to use for the problem, though.
+My Project Euler solutions - most will be in Lua 5.3. Some may be in a different language if it is easier to use for the problem, though.
 
 ## DISCLAIMER
 This repository will contain spoilers - you have been warned!  
